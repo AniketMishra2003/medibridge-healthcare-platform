@@ -109,3 +109,5 @@ MediBridge/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+Made By - Aniket Mishra and Pranavi Biswas
